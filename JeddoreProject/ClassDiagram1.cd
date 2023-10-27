@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JeddoreProject.Users">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAEAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JeddoreProject.admin">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JeddoreProject.customer">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JeddoreProject.Products">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAgEAQAAAIgAAAAACAAAAICAAAAAgAABAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="JeddoreProject.ComicBooks">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAEAAgAAIAEAQAAAAAAAAAAACAACAAAAA=</HashCode>
+      <FileName>ComicBooks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JeddoreProject.GraphicNovels">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAEAAgAAIAEAQAAAAAAAIAAAAAAAABAAA=</HashCode>
+      <FileName>GraphicNovels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JeddoreProject.Validator">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUAAAAEAAQEgAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JeddoreLab4.ProductsDB">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACgAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ProductsDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="JeddoreProject.IComparable">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IComparable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

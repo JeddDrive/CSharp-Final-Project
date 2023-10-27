@@ -1,0 +1,15 @@
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\bin\Debug\JeddoreProject.exe.config
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\bin\Debug\JeddoreProject.exe
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\bin\Debug\JeddoreProject.pdb
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.csproj.AssemblyReference.cache
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.LoginForm.resources
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.Properties.Resources.resources
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.csproj.GenerateResource.cache
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.csproj.CoreCompileInputs.cache
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.exe
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.pdb
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.AdminOrdersForm.resources
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.CustomerOrdersForm.resources
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.AddNewBook.resources
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 2\Object Oriented Programming\Projects\JeddoreProject\JeddoreProject\obj\Debug\JeddoreProject.EditExistingBook.resources

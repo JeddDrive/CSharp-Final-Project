@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+    <ComicBook>
+        <Code>1</Code>
+        <Description>Comic Book</Description>
+        <Price>3.99</Price>
+        <InStock>5</InStock>
+        <Name>Amazing Spider-Man (2022)</Name>
+        <Pages>46</Pages>
+        <Issues>1</Issues>
+    </ComicBook>
+    <ComicBook>
+        <Code>2</Code>
+        <Description>Comic Book</Description>
+        <Price>5.99</Price>
+        <InStock>2</InStock>
+        <Name>Garfield Series: Issue 25</Name>
+        <Pages>45</Pages>
+        <Issues>25</Issues>
+    </ComicBook>
+    <ComicBook>
+        <Code>3</Code>
+        <Description>Comic Book</Description>
+        <Price>5.49</Price>
+        <InStock>4</InStock>
+        <Name>Harley Quinn (2021-Present)</Name>
+        <Pages>27</Pages>
+        <Issues>27</Issues>
+    </ComicBook>
+    <ComicBook>
+        <Code>4</Code>
+        <Description>Comic Book</Description>
+        <Price>6.99</Price>
+        <InStock>1</InStock>
+        <Name>Nightwing (2016-Present)</Name>
+        <Pages>34</Pages>
+        <Issues>102</Issues>
+    </ComicBook>
+    <ComicBook>
+        <Code>5</Code>
+        <Description>Comic Book</Description>
+        <Price>6.99</Price>
+        <InStock>3</InStock>
+        <Name>Spider-Gwen: Shadow Clones (2023)</Name>
+        <Pages>33</Pages>
+        <Issues>1</Issues>
+    </ComicBook>
+    <ComicBook>
+        <Code>6</Code>
+        <Description>Comic Book</Description>
+        <Price>4.39</Price>
+        <InStock>3</InStock>
+        <Name>The Walking Dead Deluxe</Name>
+        <Pages>35</Pages>
+        <Issues>60</Issues>
+    </ComicBook>
+    <GraphicNovel>
+        <Code>7</Code>
+        <Description>Graphic Novel</Description>
+        <Price>17.9910</Price>
+        <InStock>6</InStock>
+        <Name>Batman: Year One</Name>
+        <Pages>144</Pages>
+        <Issues>4</Issues>
+    </GraphicNovel>
+    <GraphicNovel>
+        <Code>8</Code>
+        <Description>Graphic Novel</Description>
+        <Price>19.7910</Price>
+        <InStock>2</InStock>
+        <Name>Marvel 1602</Name>
+        <Pages>248</Pages>
+        <Issues>8</Issues>
+    </GraphicNovel>
+    <GraphicNovel>
+        <Code>9</Code>
+        <Description>Graphic Novel</Description>
+        <Price>12.1500</Price>
+        <InStock>3</InStock>
+        <Name>Spawn: Origins Volume 1</Name>
+        <Pages>160</Pages>
+        <Issues>16</Issues>
+    </GraphicNovel>
+    <GraphicNovel>
+        <Code>10</Code>
+        <Description>Graphic Novel</Description>
+        <Price>35.9910</Price>
+        <InStock>1</InStock>
+        <Name>The Boys Omnibus Vol. 1</Name>
+        <Pages>344</Pages>
+        <Issues>14</Issues>
+    </GraphicNovel>
+    <GraphicNovel>
+        <Code>11</Code>
+        <Description>Graphic Novel</Description>
+        <Price>30.5910</Price>
+        <InStock>3</InStock>
+        <Name>V For Vendetta</Name>
+        <Pages>296</Pages>
+        <Issues>10</Issues>
+    </GraphicNovel>
+    <GraphicNovel>
+        <Code>12</Code>
+        <Description>Graphic Novel</Description>
+        <Price>30.5910</Price>
+        <InStock>6</InStock>
+        <Name>Watchmen</Name>
+        <Pages>448</Pages>
+        <Issues>12</Issues>
+    </GraphicNovel>
+</Books>
